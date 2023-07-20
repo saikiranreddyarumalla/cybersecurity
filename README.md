@@ -1,7 +1,7 @@
-# Name : Madira Anil Kumar
-# mail id:208x1a4251@khitguntur.ac.in
-# Cybersecurity
-## Dos attack using ns2
+# Name           : Madira Anil Kumar
+# mail id        : 208x1a4251@khitguntur.ac.in
+# Project Domain : Cybersecurity
+## Project Name  : Dos attack using ns2
 
 ### DoS Attack Simulation
 
